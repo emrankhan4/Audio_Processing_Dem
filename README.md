@@ -1,5 +1,4 @@
 # Audio_Processing_Dem
-# Audio Feature Extraction
 
 This repository contains Python scripts for extracting various audio features from audio files using the `librosa` library. The extracted features can be useful for tasks such as audio classification, music information retrieval, and speech recognition.
 
